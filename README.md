@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BASKARAN V</h1>
-💻 **<b>Aspiring Data Scientist & Full-Stack Developer**</b>
+💻 <b>Aspiring Full-Stack Developer</b>
 
 - 🎓 I'm currently pursuing a B.Tech in Artificial Intelligence & Data Science at Saveetha Engineering College.
 - 🌱 I'm learning the MERN stack to expand my full-stack development skills.
