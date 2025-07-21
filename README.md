@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently pursuing a B.Tech in Artificial Intelligence & Data Science at Saveetha Engineering College.
 - 🌱 I'm learning the MERN stack to expand my full-stack development skills.
-- 🛠️ Proficient in: Python, SQL, TensorFlow, MongoDB, Express, React, Node.js.
+- 🛠️ Proficient in: Java, SQL, Python, TensorFlow, MongoDB, Spring Boot, Express, React, Node.js.
 - 📫 How to reach me **baskaranv1315@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
